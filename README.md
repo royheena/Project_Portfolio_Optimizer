@@ -35,4 +35,4 @@ Future Improvements to the Portfolio Analysis tool include:
     * User can input sell data
     * User can replace one ticker with another and robo with recalculate transaction assuming the user bought/sold the alternate ticker
     * Investor Risk assessment to recommend a new portfolio mix
-6. A platform for Robo-Advisor and the output, i.e. an interface (GUI).
+6. Use of a GUI (interface) for the Robo-Advisor and output for a cleaner visually appealing product.
